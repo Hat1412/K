@@ -38,5 +38,5 @@ def HS(l):
 
     return res
 
-print(HS(AP(1,25,2)))
-plt.show()
+if __name__ == "__main__":
+    plt.show()
